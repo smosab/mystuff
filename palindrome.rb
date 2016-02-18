@@ -1,3 +1,5 @@
+# Found at http://icfun.blogspot.com/2008/04/ruby-determination-of-palindrome.html
+
 word = "tacocat"
 
 def palindrome?(word)
